@@ -1,0 +1,33 @@
+body {
+  background-image: url("../images/spacebackground.jpg");
+  font-family: "Space Mono", monospace;
+}
+
+h1 {
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 46px;
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  display: inline-block;
+  margin: 15px;
+  padding: 10px;
+}
+
+.container {
+  border: 3px solid black;
+  padding: 50px;
+  margin: 30px;
+}
+
+.line {
+  border-top: 3px solid black;
+}

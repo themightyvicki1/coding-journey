@@ -8,18 +8,12 @@ h1 {
   font-optical-sizing: auto;
   font-weight: 600;
   font-style: normal;
-  font-size: 46px;
+  font-size: 56px;
   text-align: center;
 }
 
 ul {
   list-style: none;
-}
-
-li {
-  display: inline-block;
-  margin: 15px;
-  padding: 10px;
 }
 
 footer {
@@ -38,6 +32,18 @@ footer a {
   margin: 30px;
 }
 
+.icons {
+  padding: 145px;
+  font-size: 30px;
+}
 .line {
   border-top: 3px solid black;
+}
+
+.year {
+  padding: 140px;
+}
+
+.goal {
+  padding: 100px;
 }

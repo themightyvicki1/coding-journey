@@ -1,5 +1,5 @@
 body {
-  background-image: url("../images/spacebackground.jpg");
+  background-image: url("./images/spacebackground.jpg");
   font-family: "Space Mono", monospace;
   background-size: cover;
   background-position: center;

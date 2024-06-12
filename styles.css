@@ -47,6 +47,11 @@ section {
   margin: 20px 20px;
 }
 
+.section-contents {
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr;
+}
+
 .button {
   padding: 8px 20px;
   font-size: 16px;
@@ -86,6 +91,10 @@ section {
 
 .icon {
   font-size: 40px;
+}
+
+.contact-icons {
+  color: black;
 }
 
 #year {
